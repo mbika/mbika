@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bikash Mohapatra. @mbikash
+- 👋 Hi, I’m Bikash Mohapatra
 - 👀 I’m interested in Fullstack development, Data Structure and Algorithm and Competetive Programming [CP]. Updating myself with new programmimng language Python and Go.
 - 🌱 I’m currently learning web development, pertinet to specific part which is Frontend Technologies and the frameworks React JS and its advance concept.
 - 💞️ I’m looking to collaborate on Fullstack development hava Java as Backend and React as frontend technologies.
